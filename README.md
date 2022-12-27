@@ -1,30 +1,30 @@
 # nfcTagging
 
 <h3 align="center">
-    <a href="https://drive.google.com/file/d/1DAGU_aJb36XKrWLRGPrjjNyjUarEig9I/view?usp=drivesdk">View Demo</a>
+    <a href="(https://drive.google.com/file/d/1qqZpaaNVs6bid92L3fgNCy_leNymT0ed/view?usp=share_link)">View Demo</a>
 </h3>
 
 </p>
 
 ## Features
 
-- [x] Provide UI for Searching games over a very large DB
-- [x] Provide latest popular games 
-- [x] Provide a catalog of random games categorized by their genres
-- [x] A detailed game view screen which tells about the game such as its rating, publishers, description, platforms, stores, requirements and many more
-- [x] All in all a perfect place to search games 
+- [x] Error handling for any kind of discrepancy in reading or writing card
+- [x] NFC manager to read the card tapped
+- [x] Provide UI for viewing the updated card information fetched from API
+- [x] Write function enabled to update the card with the information fetched from the API
+- [x] Everything remains encrypted
 
 ## Requirements
 
-- iOS 16.0+
-- Xcode 14.1
+- NFC enabled Android Phone
+- Flutter
 
-## Installation
+## Tech Stack
 
-#### Manually
-1. Download and drop ```VIEWS AND ASSETS``` in your project.  
-2. Congratulations!  
-
+- Flutter
+- VsCode
+- AWS
+- Android
 
 ## Meta
 
@@ -32,5 +32,3 @@ Nij Mehar Grover – nijmehar16@gmail.com
 
 [Nij's Github](https://github.com/K1RA-16)
 
-[swift-image]:https://img.shields.io/badge/swift-5.7-orange.svg
-[swift-url]: https://swift.org/
