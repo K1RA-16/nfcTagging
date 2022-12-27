@@ -1,7 +1,7 @@
 # nfcTagging
 
 <h3 align="center">
-    <a href="(https://drive.google.com/file/d/1qqZpaaNVs6bid92L3fgNCy_leNymT0ed/view?usp=share_link)">View Demo</a>
+    <a href="https://drive.google.com/file/d/1qqZpaaNVs6bid92L3fgNCy_leNymT0ed/view?usp=share_link">View Demo</a>
 </h3>
 
 </p>
